@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hayrettin.
-- 👀 I’m interested in generally sleeping.
 - 🌱 I’m currently learning typing code with Bilge Adam Academy. 
 - 📫 You can reach me with "hayretttind20@gmai.com"
 
