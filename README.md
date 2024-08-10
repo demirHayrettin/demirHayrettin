@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hayrettin.
 - 🌱 I’m currently learning typing code with Bilge Adam Academy. 
-- 📫 You can reach me with "hayretttind20@hotmail.com"
+- 📫 You can reach me with "hayrettind20@hotmail.com"
 
 <!---
 demirHayrettin/demirHayrettin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
