@@ -17,16 +17,16 @@ Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitl
     <a href="https://twitter.com/hayrettind05" target="_blank">hayrettind05</a>
 </p>
 <p align="left">
-    <a href="https://github.com/kullanıcı-adınız" target="_blank">
+    <a href="https://github.com/demirHayrettin" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
     </a>
-    <a href="https://github.com/kullanıcı-adınız" target="_blank">GitHub</a>
+    <a href="https://github.com/demirHayrettin" target="_blank">demirHayrettin</a>
 </p>
 <p align="left">
-    <a href="mailto:mail-adresiniz" target="_blank">
+    <a href="mailto:hayrettind20@hotmail.com" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-posta" height="30" width="30" />
     </a>
-    <a href="mailto:mail-adresiniz" target="_blank">E-posta</a>
+    <a href="mailto:mail-adresiniz" target="_blank">hayrettin@hotmail.com</a>
 </p>
 
 ## 🛠️ Bildiğim Teknolojiler
