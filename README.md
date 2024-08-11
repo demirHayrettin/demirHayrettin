@@ -26,7 +26,7 @@ Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitl
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-posta" height="30" width="30" />
     </a>
-    <a href="mailto:mail-adresiniz" target="_blank">hayrettin@hotmail.com</a>
+    <a href="mailto:hayrettind20@hotmail.com" target="_blank">hayrettin@hotmail.com</a>
 </p>
 
 ## 🛠️ Bildiğim Teknolojiler
