@@ -11,10 +11,10 @@ Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitl
     <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank">hayrettin-demir</a>
 </p>
 <p align="left">
-    <a href="https://twitter.com/kullanıcı-adınız" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
+    <a href="https://x.com/hayrettind05" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" height="30" width="30" />
     </a>
-    <a href="https://twitter.com/kullanıcı-adınız" target="_blank">Twitter</a>
+    <a href="https://twitter.com/hayrettind05" target="_blank">hayrettind05</a>
 </p>
 <p align="left">
     <a href="https://github.com/kullanıcı-adınız" target="_blank">
