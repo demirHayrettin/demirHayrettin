@@ -8,19 +8,19 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
     <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
     </a>
-    <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank style="text-decoration:none;color:white;">hayrettin-demir</a>
+    <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank" style="text-decoration:none;color:white;">hayrettin-demir</a>
 </p>
 <p align="left">
     <a href="https://x.com/hayrettind05" target="_blank">
         <img align="center" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" height="30" width="30" />
     </a>
-    <a href="https://x.com/hayrettind05" target="_blank style="text-decoration:none;color:white;">hayrettind05</a>
+    <a href="https://x.com/hayrettind05" target="_blank" style="text-decoration:none;color:white;">hayrettind05</a>
 </p>
 <p align="left">
     <a href="https://github.com/demirHayrettin" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
     </a>
-    <a href="https://github.com/demirHayrettin" target="_blank style="text-decoration:none;color:white;">demirHayrettin</a>
+    <a href="https://github.com/demirHayrettin" target="_blank" style="text-decoration:none;color:white;">demirHayrettin</a>
 </p>
 <p align="left">
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">
