@@ -4,10 +4,30 @@ Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitl
 
 ## 📫 Bana Ulaşın
 
-- LinkedIn: [linkedin.com/in/hayrettin-demir(https://www.linkedin.com/in/hayrettin-demir)
-- X : [x.com/(https://twitter.com/kullanıcı-adınız)
-- GitHub: [github.com/kullanıcı-adınız](https://github.com/kullanıcı-adınız)
-- E-posta: [mail-adresiniz](mailto:mail-adresiniz)
+<p align="left">
+    <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/kullanıcı-adınız" target="_blank">LinkedIn</a>
+</p>
+<p align="left">
+    <a href="https://twitter.com/kullanıcı-adınız" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
+    </a>
+    <a href="https://twitter.com/kullanıcı-adınız" target="_blank">Twitter</a>
+</p>
+<p align="left">
+    <a href="https://github.com/kullanıcı-adınız" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
+    </a>
+    <a href="https://github.com/kullanıcı-adınız" target="_blank">GitHub</a>
+</p>
+<p align="left">
+    <a href="mailto:mail-adresiniz" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-posta" height="30" width="30" />
+    </a>
+    <a href="mailto:mail-adresiniz" target="_blank">E-posta</a>
+</p>
 
 ## 🛠️ Bildiğim Teknolojiler
 
