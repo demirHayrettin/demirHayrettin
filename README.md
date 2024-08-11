@@ -29,7 +29,7 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">hayrettin@hotmail.com</a>
 </p>
 
-## 🛠️ Bildiğim Teknolojiler
+## 🛠️ Teknolojiler
 
 ### Programlama Dilleri
 - C#
