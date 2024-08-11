@@ -1,6 +1,7 @@
-# Merhaba! 👋 Ben Hayrettin!
+# Hello! 👋 I'm Hayrettin!
 
-Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış biriyim. C# ve nesne yönelimli programlama konularında deneyim sahibiyim. Yazılım geliştirme prensibi SOLİD in kurallarına uyarak kod geliştiriyor ve Desing Pattern kullanıyorum. Clean code geliştirme yapabiliyorum. Veritabanı alanında T-SQL(SQL Server) ve PostgreSQL gibi sistemleri kullanma becerisine ek olarak, ORM konusunda EntityFramework gibi araçları etkin bir şekilde kullanabiliyorum. Katmanlı mimari türlerine hakimim. Proje geliştirirken katmanlı mimari yapısını kullanabiliyorum. Web geliştirme tarafında HTML5, CSS, JavaScript, Asp.Net Core MVC, Asp.Net Core WebAPI ve React gibi modern teknolojilere hakimim. Ayrıca Git ve Azure Devops teknolojilerini başarıyla kullanarak uygulamaların dağıtımını ve yönetimini gerçekleştirebiliyorum. Monolitik ve Mikro Servis mimarileri, katmanlı yazılım yapısı ve REST API geliştirme konularında da uzmanlık alanlarımdan birkaçıdır.
+
+I have a wide range of competencies in software development. I have experience in C# and object oriented programming. I develop code by following the rules of the software development principle SOLID and I use Design Patterns. I can develop clean code. In addition to the ability to use systems such as T-SQL (SQL Server) and PostgreSQL in the database field, I can effectively use tools such as EntityFramework in ORM. I am familiar with layered architecture types. I can use layered architecture structure while developing projects. On the web development side, I have a good command of modern technologies such as HTML5, CSS, JavaScript, Asp.Net Core MVC, Asp.Net Core WebAPI and React. I can also deploy and manage applications by successfully using Git and Azure Devops technologies. Monolithic and Microservices architectures, layered software structure and REST API development are some of my areas of expertise.
 
 ## 📫 Bana Ulaşın
 
@@ -23,9 +24,9 @@ Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış bir
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">hayrettin@hotmail.com</a>
 </p>
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies
 
-### Web Geliştirme
+### Web Development
 <p align="left">
     <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-%230077B5.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
     <img src="https://img.shields.io/badge/ASP.NET%20Core%20WebAPI-%230077B5.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core WebAPI" />
@@ -35,7 +36,7 @@ Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış bir
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Nesne Yönelimli Programlama (OOP)
+### Object Oriented Programming (OOP)
 <p align="left">
     <img src="https://img.shields.io/badge/C%23%20OOP-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# OOP Fundamental & Advanced" />
     <img src="https://img.shields.io/badge/SOLID%20Principles-%230075B5.svg?style=for-the-badge&logoColor=white" alt="SOLID Principles" />
@@ -43,26 +44,26 @@ Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış bir
     <img src="https://img.shields.io/badge/Ntier%20Onion%20Architecture-%230075B5.svg?style=for-the-badge&logoColor=white" alt="Ntier – Onion Architecture" />
 </p>
 
-### Veritabanı ve ORM
+### Database and ORM
 <p align="left">
     <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server (T-SQL)" />
     <img src="https://img.shields.io/badge/EntityFramework%20Core-%234085E4.svg?style=for-the-badge&logo=entity-framework&logoColor=white" alt="EntityFramework Core" />
 </p>
 
-### Veri Depolama ve İşleme
+### Data Storage and Processing
 <p align="left">
     <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
     <img src="https://img.shields.io/badge/ElasticSearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
 </p>
 
-### Konteynerleme ve Dağıtım
+### Containerization and Deployment
 <p align="left">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
 </p>
 
-### Yazılım Mimarisi ve Geliştirme Yaklaşımları
+### Software Architecture and Development Approaches
 <p align="left">
     <img src="https://img.shields.io/badge/Monolitik%20ve%20Mikro%20Servis%20Mimarisi-%230075B5.svg?style=for-the-badge&logoColor=white" alt="Monolitik ve Mikro Servis Mimarisi" />
     <img src="https://img.shields.io/badge/Katmanlı%20Yazılım-%230075B5.svg?style=for-the-badge&logoColor=white" alt="Katmanlı Yazılım" />
@@ -71,16 +72,16 @@ Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış bir
 
 ---
 
-## 📚 Eğitim ve Sertifikalar
+## 📚 Training and Certificates
 
-- BilgeAdam Boost - Yıldız Yazılımcı Geliştirme Eğitim Programı
+- BilgeAdam Boost - Star Software Developer Development Training Program
 
 
 ## 🎯 Hedeflerim
 
-Yazılım geliştirme alanındaki bilgilerimi sürekli olarak güncelleyerek, kullanıcı odaklı, kaliteli ve yenilikçi çözümler üretmek. Ayrıca, topluluklara katkıda bulunarak ve yeni teknolojileri öğrenerek kendimi daha da geliştirmek istiyorum.
+To produce user-oriented, high quality and innovative solutions by continuously updating my knowledge in software development. I also want to further improve myself by contributing to communities and learning new technologies.
 
-## 📈 GitHub İstatistiklerim
+## 📈GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demirHayrettin&show_icons=true&theme=radical)
 
@@ -88,4 +89,4 @@ Yazılım geliştirme alanındaki bilgilerimi sürekli olarak güncelleyerek, ku
 
 ---
 
-Bu README dosyası, Hayrettin DEMİR'in GitHub'daki projelerini ve becerilerini tanıtmak amacıyla oluşturulmuştur. Daha fazla bilgi için benimle iletişime geçmekten çekinmeyin!
+This README file was created to introduce Hayrettin DEMİR's projects and skills on GitHub. Feel free to contact me for more information!
