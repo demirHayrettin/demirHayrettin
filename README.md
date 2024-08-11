@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben [İsminiz]
+# Merhaba! 👋 Ben Hayrettin!
 
 Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanlaştım. Aşağıda, benimle iletişime geçebileceğiniz sosyal medya hesaplarımı ve üzerinde çalıştığım teknolojileri bulabilirsiniz.
 
