@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hayrettin.
-- 🌱 I’m currently learning typing code with Bilge Adam Academy. 
+- 🌱 I’m currently learning and typing code with Bilge Adam Academy. 
 - 📫 You can reach me with "hayrettind20@hotmail.com"
 
 <!---
