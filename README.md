@@ -32,26 +32,35 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
 ## 🛠️ Teknolojiler
 
 ### Programlama Dilleri
-- C#
-- JavaScript
-- Python
+<p align="left">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
 ### Web Geliştirme
-- ASP.NET Core MVC
-- HTML5 & CSS3
-- React
+<p align="left">
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-%230077B5.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
 ### Veritabanı ve ORM
-- SQL Server
-- Entity Framework Core
-- Dapper
+<p align="left">
+    <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/Entity%20Framework-%234085E4.svg?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
+    <img src="https://img.shields.io/badge/Dapper-%230077B5.svg?style=for-the-badge&logoColor=white" alt="Dapper" />
+</p>
 
 ### Diğer Araçlar ve Teknolojiler
-- Git & GitHub
-- Azure DevOps
-- Docker
-- Redis
-- RabbitMQ
+<p align="left">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
 
 ## 📚 Eğitim ve Sertifikalar
 
