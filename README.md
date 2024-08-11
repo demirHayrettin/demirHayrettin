@@ -20,7 +20,7 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
     <a href="https://github.com/demirHayrettin" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" />
     </a>
-    <a href="https://github.com/demirHayrettin" target="_blank" style="text-decoration:none;color:white;">demirHayrettin</a>
+    <a href="https://github.com/demirHayrettin" target="_blank" style="text-decoration:none">demirHayrettin</a>
 </p>
 <p align="left">
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">
