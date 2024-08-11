@@ -14,7 +14,7 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
     <a href="https://x.com/hayrettind05" target="_blank">
         <img align="center" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" height="30" width="30" />
     </a>
-    <a href="https://twitter.com/hayrettind05" target="_blank">hayrettind05</a>
+    <a href="https://x.com/hayrettind05" target="_blank">hayrettind05</a>
 </p>
 <p align="left">
     <a href="https://github.com/demirHayrettin" target="_blank">
