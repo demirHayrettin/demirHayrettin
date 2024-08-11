@@ -1,6 +1,6 @@
 # Merhaba! 👋 Ben Hayrettin!
 
-Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanlaştım. Aşağıda, benimle iletişime geçebileceğiniz sosyal medya hesaplarımı ve üzerinde çalıştığım teknolojileri bulabilirsiniz.
+Yazılım geliştirme konusunda geniş bir yetkinlik yelpazesiyle donanmış biriyim. C# ve nesne yönelimli programlama konularında deneyim sahibiyim. Yazılım geliştirme prensibi SOLİD in kurallarına uyarak kod geliştiriyor ve Desing Pattern kullanıyorum. Clean code geliştirme yapabiliyorum. Veritabanı alanında T-SQL(SQL Server) ve PostgreSQL gibi sistemleri kullanma becerisine ek olarak, ORM konusunda EntityFramework gibi araçları etkin bir şekilde kullanabiliyorum. Katmanlı mimari türlerine hakimim. Proje geliştirirken katmanlı mimari yapısını kullanabiliyorum. Web geliştirme tarafında HTML5, CSS, JavaScript, Asp.Net Core MVC, Asp.Net Core WebAPI ve React gibi modern teknolojilere hakimim. Ayrıca Git ve Azure Devops teknolojilerini başarıyla kullanarak uygulamaların dağıtımını ve yönetimini gerçekleştirebiliyorum. Monolitik ve Mikro Servis mimarileri, katmanlı yazılım yapısı ve REST API geliştirme konularında da uzmanlık alanlarımdan birkaçıdır.
 
 ## 📫 Bana Ulaşın
 
