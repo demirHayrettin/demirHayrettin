@@ -3,7 +3,7 @@
 
 I have a wide range of competencies in software development. I have experience in C# and object oriented programming. I develop code by following the rules of the software development principle SOLID and I use Design Patterns. I can develop clean code. In addition to the ability to use systems such as T-SQL (SQL Server) and PostgreSQL in the database field, I can effectively use tools such as EntityFramework in ORM. I am familiar with layered architecture types. I can use layered architecture structure while developing projects. On the web development side, I have a good command of modern technologies such as HTML5, CSS, JavaScript, Asp.Net Core MVC, Asp.Net Core WebAPI and React. I can also deploy and manage applications by successfully using Git and Azure Devops technologies. Monolithic and Microservices architectures, layered software structure and REST API development are some of my areas of expertise.
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hayrettin-demir" target="_blank">
