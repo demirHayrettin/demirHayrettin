@@ -12,7 +12,7 @@ Merhaba, ben Hayrettin. Bir junior full stack .Net geliştiricisiyim ve çeşitl
 </p>
 <p align="left">
     <a href="https://x.com/hayrettind05" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" height="30" width="30" />
+        <img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000)" alt="X" height="30" width="30" />
     </a>
     <a href="https://twitter.com/hayrettind05" target="_blank">hayrettind05</a>
 </p>
