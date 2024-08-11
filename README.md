@@ -62,6 +62,7 @@ Bir junior full stack .Net geliştiricisiyim ve çeşitli teknolojilerde uzmanla
     <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
+
 ## 📚 Eğitim ve Sertifikalar
 
 - BilgeAdam Boost - Yıldız Yazılımcı Geliştirme Eğitim Programı
