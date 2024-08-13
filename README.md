@@ -21,7 +21,7 @@ I have a wide range of competencies in software development. I have experience i
     <a href="mailto:hayrettind20@hotmail.com" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-posta" height="30" width="30" />
     </a>
-    <a href="mailto:hayrettind20@hotmail.com" target="_blank">hayrettin@hotmail.com</a>
+    <a href="mailto:hayrettind20@hotmail.com" target="_blank">hayrettind20@hotmail.com</a>
 </p>
 
 ## 🛠️ Technologies
